@@ -7,7 +7,8 @@
     <img height="20" src="https://img.shields.io/github/followers/jungamer-64?label=follow&logo=github&style=flat" />
   </a>
 </a>
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jungamer-64&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jungamer-64)
+
 <!--
 **jungamer-64/jungamer-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
