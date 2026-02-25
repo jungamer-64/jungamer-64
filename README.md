@@ -3,6 +3,9 @@
   <a href="https://github.com/jungamer-64">
     <img height="20" src="https://komarev.com/ghpvc/?username=jungamer-64" />
   </a>
+  <a href="https://github.com/jungamer-64">
+    <img height="20" src="https://img.shields.io/github/followers/jungamer-64?label=follow&logo=github&style=flat" />
+  </a>
 </a>
 <!--
 **jungamer-64/jungamer-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
