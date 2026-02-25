@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align="left">
+  <a href="https://github.com/jungamer-64">
+    <img height="20" src="https://komarev.com/ghpvc/?username=jungamer-64" />
+  </a>
+</a>
 <!--
 **jungamer-64/jungamer-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
