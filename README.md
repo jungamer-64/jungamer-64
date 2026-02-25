@@ -6,7 +6,7 @@
   <a href="https://github.com/jungamer-64">
     <img height="20" src="https://img.shields.io/github/followers/jungamer-64?label=follow&logo=github&style=flat" />
   </a>
-</a>
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungamer-64)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
