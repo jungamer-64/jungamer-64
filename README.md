@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungamer-64)
+[![Rany_OS](https://helio-github-stats.vercel.app/api/pin?username=jungamer-64&repo=Rany_OS&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/jungamer-64/Rany_OS)
 
 <!--
 **jungamer-64/jungamer-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
