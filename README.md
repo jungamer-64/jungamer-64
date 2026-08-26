@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just a harmless high school student.
 <p align="left">
   <a href="https://github.com/jungamer-64">
     <img height="20" src="https://komarev.com/ghpvc/?username=jungamer-64" />
